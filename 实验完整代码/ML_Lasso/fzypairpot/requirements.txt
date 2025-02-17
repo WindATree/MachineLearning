@@ -1,0 +1,7 @@
+h5py
+numpy
+pandas
+anndata
+scanpy
+pkg_resources
+scipy

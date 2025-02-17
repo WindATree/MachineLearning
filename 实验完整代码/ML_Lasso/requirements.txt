@@ -1,0 +1,13 @@
+D:\desktop\ML_LassoView\pairpotlpa\dist\pairpotlpa-0.1-cp39-cp39-win_amd64.whl
+numpy
+Jupyter
+anndata
+toolz
+matplotlib
+scanpy
+cell2location
+cellphonedb
+SOMENDER
+numba
+
+anndata

@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: pairpotlpa
+Version: 0.1
+Summary: Cell Propagation algorithm implemented in C++
+Author: rzh, zzj
+Author-email: rrrzhan@mail.nankai.edu.cn
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
